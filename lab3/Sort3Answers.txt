@@ -1,0 +1,31 @@
+This is Bubble Sort
+
+sort3 random5000:
+real    0m0.045s
+user    0m0.025s
+sys     0m0.009s
+
+sort3 random10000:
+real    0m0.214s
+user    0m0.108s
+sys     0m0.013s
+
+sort3 random50000:
+real    0m6.618s
+user    0m2.540s
+sys     0m0.076s
+
+sort3 reversed5000:
+real    0m0.034s
+user    0m0.026s
+sys     0m0.009s
+
+sort3 reversed10000:
+real    0m0.176s
+user    0m0.112s
+sys     0m0.004s
+
+sort3 reversed50000:
+real    0m6.595s
+user    0m2.598s
+sys     0m0.060s

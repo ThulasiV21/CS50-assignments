@@ -1,0 +1,31 @@
+This is Selection Sort
+
+sort1 random5000:
+real    0m0.072s
+user    0m0.055s
+sys     0m0.008s
+
+sort1 random10000:
+real    0m0.516s
+user    0m0.244s
+sys     0m0.004s
+
+sort1 random50000:
+real    0m14.997s
+user    0m6.774s
+sys     0m0.092s
+
+sort1 reversed5000:
+real    0m0.089s
+user    0m0.053s
+sys     0m0.004s
+
+sort1 reversed10000:
+real    0m0.392s
+user    0m0.203s
+sys     0m0.020s
+
+sort1 reversed50000:
+real    0m11.571s
+user    0m4.857s
+sys     0m0.092s
